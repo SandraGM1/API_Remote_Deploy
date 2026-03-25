@@ -1,0 +1,5 @@
+flask
+gunicorn #wsgi. estándar de puente con flask
+pandas
+numpy
+scikit-learn==1.5.2
